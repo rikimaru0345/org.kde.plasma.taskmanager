@@ -9,12 +9,19 @@ Basically it just adds an option to allow you to customize what happens when you
 
 ## ✨ Added Features
 
+### 🚨 Note 🚨 Even though the screenshot suggests that scrolling only works over a task, this is not true. When you select "executes a command", that will work anywhere on the taskmanager bar, including the empty regions. 
+
+
 New options have been added, highlighted in red below:
 
 ![new options](images/Screenshot_20250706_095743.png)
 
 The scroll up/down commands are obviously customizable.
 I just happen to like being able to adjust my system audio volume by scrolling anywhere on the taskbar.
+
+
+
+
 
 ---
 
